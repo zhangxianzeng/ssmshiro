@@ -1,0 +1,1 @@
+将ssm+shori+token一起应用  ssm需要在springmvc.xml文件中进行配置拦截器，拦截想要拦截的地址，这样才能实现判断是否登录是否存在token，springboot只需要注解即可不需要配置拦截器
